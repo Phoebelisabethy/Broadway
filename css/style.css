@@ -1,0 +1,11 @@
+h1 {
+   font-size: 70px;
+   font-family: helvetica;
+   text-align: center;
+}
+p, h2, h3, h4{
+  font-family: helvetica;
+  text-align: center;
+  font-size: 18px;
+
+}
